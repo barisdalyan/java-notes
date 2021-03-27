@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-src="https://github.com/barisdalyan/trash/blob/master/nested_classes.png" alt="@barisdalyan" height="250" width="425" />
+src="https://github.com/barisdalyan/java-notes/blob/master/img/nested_classes.png" alt="@barisdalyan" height="250" width="425" />
 </p>
 
 Java dilinde çoklu kalıtım yoktur. Java çoklu kalıtımı **interface** (arayüz) ve **iç içe sınıflar** ile sağlar. İç içe sınıflar, sınıf içinde tanımlanmış sınıflar şeklinde ifade edilebilir. İç içe sınıflar, geliştiriciye sınıflar arasında mantıksal gruplamalar yapmasına yardımcı olur. Bu durum, **encapsulation** kullanımını arttırır ve daha okunabilir, sürdürülebilir kodların yazılmasını sağlar.
