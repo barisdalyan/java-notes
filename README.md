@@ -26,7 +26,7 @@ This repository contains my notes about Java Programming Language. Topic content
   - Encapsulation
   - Inheritance
   - Abstract Class & Methods
-  - Interface
+  - [Interface](https://github.com/barisdalyan/java-notes/blob/master/content/interface/interface_tr.md)
   - [Nested Classes](https://github.com/barisdalyan/java-notes/blob/master/content/nested-class/nested_classes_tr.md)
   - [Polymorphism](https://github.com/barisdalyan/java-notes/blob/master/content/polymorphism/polymorphism_tr.md)
 - [Math Class](https://github.com/barisdalyan/java-notes/blob/master/content/math-class/math_class_tr.md)
