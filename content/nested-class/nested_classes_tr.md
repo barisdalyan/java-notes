@@ -403,15 +403,12 @@ public class Driver {
 }
 ```
 
-
 #### Key Points
 
 - Java inner sınıflara (non-static nested classes) normal sınıf elemanlarıymış gibi davranır. Bu sınıflar, sınıf içinde tanımlı nesne değişkenleri ve mototlar gibidir.
 - Nested sınıflar, outer sınıfların üyeleri olduğu için `private`, `protected` gibi erişim belirteçleriyle (access modifiers) tanımlanabilir ancak bu durum outer sınıflar için geçerli değildir.
 - Inner sınıf nesnesi outer sınıf nesnesinden bağımsız var olamazken, static-nested sınıflar outer sınıf nesnesinden bağımsız olabilir ancak her iki nested sınıfın da sınırı (scope) kapsayıcısına bağlıdır.
 - Non-static nested sınıflar, outer/enclosing sınıfların private üyelerine erişebilirken, static nested sınıflar `static` tanımlı private değişken ve metotlara erişebilir.
-
-<br>
 
 ### Inner Interfaces
 
@@ -568,8 +565,6 @@ Burası yerel sınıfın yapıcı metodu
 7'nin faktöriyeli: 5040.0
 ```
 
-<br>
-
 **Örnek 2:**
 
 Yerel sınıflar kendisini kapsayan bloğun sadece **effectively final** yerel değişkenlerine ve parametrelerine erişebildiği için *float sum* değişkenine sonradan atama yaptığımızda bu değişken, effectively final özelliğini kaybeder ve ilgili derleyici hatası oluşur.
@@ -613,8 +608,6 @@ Output:
 ```
 Quotient: 12.5
 ```
-
-<br>
 
 #### if Koşulu İçinde Tanımlama
 
