@@ -49,7 +49,6 @@ Output:
 Programming Language: Java
 ```
 
-<br>
 
 ## Interface'lerin İmplementasyonu 
 
@@ -112,7 +111,6 @@ class C implements A, B {
 }
 ```
 
-<br>
 
 ## Interface'leri Genişletme
 
@@ -131,7 +129,6 @@ interface C extends A, B {
 }
 ```
 
-<br>
 
 ## Interface İçinde Başka Bir Interface Kullanma
 
@@ -194,7 +191,6 @@ Arayüz2'deki method2 override edildi.
 Arayüz3'deki method3 override edildi.
 ```
 
-<br>
 
 ## Java Interface'lerde default Metotlar
 
@@ -319,7 +315,6 @@ Salary for Junior Developer: $5000
 ```
 Yukarıdaki örnekte **SeniorDev** sınıfı countSalary() metodunu **ezerek** (by overriding) enum sınıfından yeni bir sabit yazdırdı ancak **JuniorDev** sınıfında default metot çağırıldı. 
 
-<br>
 
 ## Java Interface'lerde private - static - private static Metotlar
 
