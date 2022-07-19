@@ -5,7 +5,8 @@ src="https://github.com/barisdalyan/java-notes/blob/master/img/openjdklogo.png" 
 </p>
 
 # Java Notes 
-UPDATE: This project is suspended for a while. When the time comes I will categorize titles by Java versions.
+**UPDATE:** This project is suspended for a while. When the time comes I will categorize titles by Java versions.
+
 This repository contains my notes about Java Programming Language. Topic contents are **Turkish** for now.
 
 ## Contents
